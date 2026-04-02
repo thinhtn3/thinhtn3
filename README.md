@@ -27,17 +27,6 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thinhtn3&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thinhtn3&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhtn3&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=thinhtn3&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 </div>
