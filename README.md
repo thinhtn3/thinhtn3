@@ -72,7 +72,19 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 ## Hackathons
 
 <!-- DEVPOST:START -->
-_No hackathon projects found. Check back later!_
+| Project | Hackathon | Award |
+|---------|-----------|-------|
+| [MakerSafe](https://devpost.com/software/makersafe) | — | 🏆 Winner |
+| [RateMyCalendar](https://devpost.com/software/ratemycalendar) | — | 🏆 Winner |
+| [finVisor](https://devpost.com/software/finvisor-p30hcd) | — | 🏆 Winner |
+| [BuySense](https://devpost.com/software/buysense-tzfdhv) | — | — |
+| [LePlay](https://devpost.com/software/leplay) | — | — |
+| [SnapCuisine](https://devpost.com/software/snapcuisine) | — | — |
+| [SpotiEvent](https://devpost.com/software/spotievent) | — | — |
+| [ZotTime](https://devpost.com/software/s-zfmkx1) | — | — |
+
+_Last updated: 2026-04-02 09:00 UTC_
+
 <!-- DEVPOST:END -->
 
 ---
