@@ -43,21 +43,7 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thinhtn3&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF)](https://github.com/thinhtn3)
-
-</div>
-
-<div align="center">
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thinhttnguyen?theme=dark&font=Fira%20Code&hide_border=true&ext=heatmap)](https://leetcode.com/u/thinhttnguyen/)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thinhtn3/thinhtn3/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 
 </div>
 

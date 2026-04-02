@@ -1,4 +1,4 @@
-name: Update Devpost Hackathons
+name: Update MLH Hackathons
 
 on:
   push:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update:
-    name: Fetch Devpost & Update README
+    name: Fetch MLH & Update README
     runs-on: ubuntu-latest
 
     steps:
@@ -25,10 +25,12 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests
 
-      - name: Run Devpost scraper
-        run: python .github/scripts/fetch_devpost.py
+      - name: Fetch MLH data and update README
+        env:
+          MLH_ACCESS_TOKEN: ${{ secrets.MLH_ACCESS_TOKEN }}
+        run: python .github/scripts/fetch_mlh.py
 
       - name: Commit and push if README changed
         run: |
@@ -38,6 +40,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update Devpost hackathon data [skip ci]"
+            git commit -m "chore: update MLH hackathon data [skip ci]"
             git push
           fi
