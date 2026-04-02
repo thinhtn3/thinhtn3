@@ -47,26 +47,6 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 </div>
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'background': '#282828', 'primaryColor': '#3c3836', 'primaryTextColor': '#ebdbb2', 'primaryBorderColor': '#504945', 'lineColor': '#a89984', 'secondaryColor': '#3c3836', 'tertiaryColor': '#282828'}}}%%
-xychart-beta
-    title "Languages"
-    x-axis ["Python", "TypeScript", "JavaScript", "Go", "C++", "Java"]
-    y-axis "Proficiency" 0 --> 100
-    bar [90, 85, 80, 70, 65, 60]
-```
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'background': '#282828', 'primaryColor': '#d65d0e', 'primaryTextColor': '#ebdbb2', 'primaryBorderColor': '#504945', 'pie1': '#d65d0e', 'pie2': '#d79921', 'pie3': '#98971a', 'pie4': '#458588', 'pie5': '#b16286', 'pie6': '#689d6a', 'pie7': '#cc241d', 'pieBorderStrokeColor': '#282828'}}}%%
-pie title Stack Breakdown
-    "Python / AI" : 22
-    "TypeScript / JS" : 20
-    "Go" : 14
-    "React / Next.js" : 16
-    "Cloud (AWS / GCP)" : 14
-    "Databases" : 8
-    "C++ / Java" : 6
-```
 
 ---
 
