@@ -50,7 +50,7 @@ def scrape_profile(profile_url: str) -> list:
     if soup is None:
         return []
 
-    cards = soup.find_all("a", class_="software-thumbnail")
+    cards = soup.find_all("a", class_="link-to-software")
     projects = []
     for card in cards:
         href = card.get("href", "")
