@@ -47,36 +47,26 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 </div>
 
-<div align="center">
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'background': '#282828', 'primaryColor': '#3c3836', 'primaryTextColor': '#ebdbb2', 'primaryBorderColor': '#504945', 'lineColor': '#a89984', 'secondaryColor': '#3c3836', 'tertiaryColor': '#282828'}}}%%
+xychart-beta
+    title "Languages"
+    x-axis ["Python", "TypeScript", "JavaScript", "Go", "C++", "Java"]
+    y-axis "Proficiency" 0 --> 100
+    bar [90, 85, 80, 70, 65, 60]
+```
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinhtn3&theme=gruvbox" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thinhtn3&theme=gruvbox" height="180em"/>
-
-</div>
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-E07820?style=for-the-badge&logo=python&logoColor=FFF8F0)
-![TypeScript](https://img.shields.io/badge/TypeScript-D4792A?style=for-the-badge&logo=typescript&logoColor=FFF8F0)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6B35?style=for-the-badge&logo=javascript&logoColor=2A1000)
-![Go](https://img.shields.io/badge/Go-C47A2A?style=for-the-badge&logo=go&logoColor=FFF8F0)
-![C++](https://img.shields.io/badge/C++-E8A020?style=for-the-badge&logo=cplusplus&logoColor=2A1000)
-![Java](https://img.shields.io/badge/Java-D4792A?style=for-the-badge&logo=openjdk&logoColor=FFF8F0)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-2A1000?style=for-the-badge&logo=react&logoColor=FF6B35)
-![Next.js](https://img.shields.io/badge/Next.js-3D1800?style=for-the-badge&logo=nextdotjs&logoColor=FFF8F0)
-![Node.js](https://img.shields.io/badge/Node.js-C47A2A?style=for-the-badge&logo=nodedotjs&logoColor=FFF8F0)
-![LangChain](https://img.shields.io/badge/LangChain-E07820?style=for-the-badge&logo=langchain&logoColor=2A1000)
-
-**Cloud & Data**
-
-![AWS](https://img.shields.io/badge/AWS-3D1800?style=for-the-badge&logo=amazonaws&logoColor=FF6B35)
-![GCP](https://img.shields.io/badge/GCP-D4792A?style=for-the-badge&logo=googlecloud&logoColor=FFF8F0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C47A2A?style=for-the-badge&logo=postgresql&logoColor=FFF8F0)
-![Supabase](https://img.shields.io/badge/Supabase-E8A020?style=for-the-badge&logo=supabase&logoColor=2A1000)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-E07820?style=for-the-badge&logo=amazondynamodb&logoColor=FFF8F0)
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'background': '#282828', 'primaryColor': '#d65d0e', 'primaryTextColor': '#ebdbb2', 'primaryBorderColor': '#504945', 'pie1': '#d65d0e', 'pie2': '#d79921', 'pie3': '#98971a', 'pie4': '#458588', 'pie5': '#b16286', 'pie6': '#689d6a', 'pie7': '#cc241d', 'pieBorderStrokeColor': '#282828'}}}%%
+pie title Stack Breakdown
+    "Python / AI" : 22
+    "TypeScript / JS" : 20
+    "Go" : 14
+    "React / Next.js" : 16
+    "Cloud (AWS / GCP)" : 14
+    "Databases" : 8
+    "C++ / Java" : 6
+```
 
 ---
 
