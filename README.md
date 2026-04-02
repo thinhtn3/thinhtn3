@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UC+Irvine;Full-Stack+Builder+%7C+Hackathon+Competitor;Python+%7C+TypeScript+%7C+Go+%7C+C%2B%2B;Cloud+%7C+AI+%7C+Backend+Systems)](https://git.io/typing-svg)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thinhtn3&style=for-the-badge&color=1a1b27&labelColor=1a1b27&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -22,6 +26,10 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=thinhtn3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+
+<br/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thinhtn3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhtn3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
@@ -35,13 +43,33 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 <div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thinhtn3&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF)](https://github.com/thinhtn3)
+
+</div>
+
+<div align="center">
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thinhttnguyen?theme=dark&font=Fira%20Code&hide_border=true&ext=heatmap)](https://leetcode.com/u/thinhttnguyen/)
 
 </div>
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thinhtn3/thinhtn3/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+
+</div>
+
+---
+
 ## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,cpp,java,react,nextjs,nodejs,aws,gcp,postgres,docker,git&theme=dark&perline=7" alt="skill icons"/>
+
+</div>
 
 **Languages**
 
