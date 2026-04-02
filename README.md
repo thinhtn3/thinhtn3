@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:E07820,100:2A1000&height=200&section=header&text=Thinh%20(Tony)%20Nguyen&fontSize=50&fontAlignY=35&fontColor=FFF8F0&desc=Software%20Engineer%20%7C%20Hackathon%20Builder%20%7C%20Corgi%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="corgi.svg" width="160" alt="corgi mascot"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+UC+Irvine;Full-Stack+Builder+%7C+Hackathon+Competitor;Python+%7C+TypeScript+%7C+Go+%7C+C%2B%2B;Cloud+%7C+AI+%7C+Backend+Systems;Powered+by+coffee+and+corgis)](https://git.io/typing-svg)
 
 <br/>
@@ -12,7 +10,7 @@
 
 </div>
 
-<img src="paw-divider.svg" width="100%"/>
+---
 
 ## 🐾 About Me
 
@@ -23,7 +21,7 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 - 💡 Interested in backend systems, AI tooling, and developer experience
 - 🐕 Certified corgi enthusiast
 
-<img src="paw-divider.svg" width="100%"/>
+---
 
 ## 🏆 Stats
 
@@ -50,13 +48,20 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 </div>
 
-<img src="paw-divider.svg" width="100%"/>
+---
 
-## 🐾 Bork Stack
+## 🐾 Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,go,cpp,java,react,nextjs,nodejs,aws,gcp,postgres,docker,git&theme=dark&perline=7" alt="skill icons"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinhtn3&theme=gruvbox" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thinhtn3&theme=gruvbox" height="180em"/>
 
 </div>
 
@@ -84,7 +89,7 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 ![Supabase](https://img.shields.io/badge/Supabase-E8A020?style=for-the-badge&logo=supabase&logoColor=2A1000)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-E07820?style=for-the-badge&logo=amazondynamodb&logoColor=FFF8F0)
 
-<img src="paw-divider.svg" width="100%"/>
+---
 
 ## 🦴 Hackathons
 
@@ -92,7 +97,7 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 _[View projects on Devpost](https://devpost.com/thinhtn3)_
 <!-- DEVPOST:END -->
 
-<img src="paw-divider.svg" width="100%"/>
+---
 
 ## 🐕 Connect
 
