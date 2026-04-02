@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="800" height="40">
+  <!-- Left line -->
+  <line x1="0" y1="20" x2="310" y2="20" stroke="#E07820" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Paw print center (main pad) -->
+  <ellipse cx="400" cy="24" rx="12" ry="10" fill="#E07820"/>
+  <!-- Toe beans -->
+  <circle cx="385" cy="13" r="5.5" fill="#E07820"/>
+  <circle cx="396" cy="10" r="5.5" fill="#E07820"/>
+  <circle cx="407" cy="10" r="5.5" fill="#E07820"/>
+  <circle cx="418" cy="13" r="5.5" fill="#E07820"/>
+
+  <!-- Small paw left -->
+  <ellipse cx="340" cy="24" rx="7" ry="6" fill="#E07820" opacity="0.45"/>
+  <circle cx="332" cy="17" r="3" fill="#E07820" opacity="0.45"/>
+  <circle cx="339" cy="15" r="3" fill="#E07820" opacity="0.45"/>
+  <circle cx="346" cy="15" r="3" fill="#E07820" opacity="0.45"/>
+  <circle cx="353" cy="17" r="3" fill="#E07820" opacity="0.45"/>
+
+  <!-- Small paw right -->
+  <ellipse cx="460" cy="24" rx="7" ry="6" fill="#E07820" opacity="0.45"/>
+  <circle cx="452" cy="17" r="3" fill="#E07820" opacity="0.45"/>
+  <circle cx="459" cy="15" r="3" fill="#E07820" opacity="0.45"/>
+  <circle cx="466" cy="15" r="3" fill="#E07820" opacity="0.45"/>
+  <circle cx="473" cy="17" r="3" fill="#E07820" opacity="0.45"/>
+
+  <!-- Right line -->
+  <line x1="490" y1="20" x2="800" y2="20" stroke="#E07820" stroke-width="1.5" opacity="0.5"/>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 260" width="220" height="260">
+  <!-- Shadow -->
+  <ellipse cx="110" cy="252" rx="55" ry="8" fill="#2A1000" opacity="0.18"/>
+
+  <!-- Tail -->
+  <ellipse cx="182" cy="178" rx="20" ry="13" fill="#FFF8F0" transform="rotate(-25 182 178)"/>
+  <ellipse cx="180" cy="175" rx="14" ry="9" fill="#E8A020" transform="rotate(-25 180 175)"/>
+
+  <!-- Body -->
+  <ellipse cx="110" cy="196" rx="68" ry="52" fill="#E8A020"/>
+
+  <!-- White chest -->
+  <ellipse cx="110" cy="204" rx="40" ry="40" fill="#FFF8F0"/>
+
+  <!-- Left ear (behind head) -->
+  <polygon points="64,80 38,16 92,66" fill="#C47020"/>
+  <polygon points="66,75 48,24 86,64" fill="#FFE0B0"/>
+
+  <!-- Right ear -->
+  <polygon points="156,80 182,16 128,66" fill="#C47020"/>
+  <polygon points="154,75 172,24 134,64" fill="#FFE0B0"/>
+
+  <!-- Head -->
+  <ellipse cx="110" cy="112" rx="62" ry="58" fill="#E8A020"/>
+
+  <!-- White face patch -->
+  <ellipse cx="110" cy="128" rx="40" ry="34" fill="#FFF8F0"/>
+
+  <!-- Eye shadow patches -->
+  <circle cx="85" cy="103" r="15" fill="#C47020"/>
+  <circle cx="135" cy="103" r="15" fill="#C47020"/>
+
+  <!-- Eyes -->
+  <circle cx="85" cy="103" r="10" fill="#1C0A00"/>
+  <circle cx="135" cy="103" r="10" fill="#1C0A00"/>
+  <!-- Shine -->
+  <circle cx="88.5" cy="99.5" r="3.5" fill="white"/>
+  <circle cx="138.5" cy="99.5" r="3.5" fill="white"/>
+  <circle cx="82" cy="107" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="132" cy="107" r="1.5" fill="white" opacity="0.5"/>
+
+  <!-- Muzzle -->
+  <ellipse cx="110" cy="130" rx="22" ry="15" fill="#F5D080"/>
+
+  <!-- Nose -->
+  <ellipse cx="110" cy="121" rx="8" ry="6" fill="#1C0A00"/>
+  <ellipse cx="107.5" cy="119.5" rx="2.2" ry="1.6" fill="#3D1800" opacity="0.45"/>
+
+  <!-- Mouth -->
+  <line x1="110" y1="127" x2="110" y2="134" stroke="#1C0A00" stroke-width="1.6"/>
+  <path d="M96,134 Q110,146 124,134" stroke="#1C0A00" stroke-width="1.9" fill="none" stroke-linecap="round"/>
+
+  <!-- Tongue -->
+  <ellipse cx="110" cy="143" rx="9" ry="7.5" fill="#FF7878"/>
+  <line x1="110" y1="137" x2="110" y2="150" stroke="#D95050" stroke-width="1.6"/>
+
+  <!-- Front left leg -->
+  <rect x="72" y="228" width="22" height="32" rx="11" fill="#E8A020"/>
+  <ellipse cx="83" cy="260" rx="13" ry="8" fill="#D4792A"/>
+
+  <!-- Front right leg -->
+  <rect x="126" y="228" width="22" height="32" rx="11" fill="#E8A020"/>
+  <ellipse cx="137" cy="260" rx="13" ry="8" fill="#D4792A"/>
+</svg>
