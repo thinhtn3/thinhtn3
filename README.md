@@ -66,7 +66,7 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 ## Hackathons
 
 <!-- DEVPOST:START -->
-_Run the workflow to populate hackathon data from Devpost._
+_No hackathon projects found. Check back later!_
 <!-- DEVPOST:END -->
 
 ---
