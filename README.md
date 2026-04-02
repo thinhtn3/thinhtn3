@@ -1,49 +1,86 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+<div align="center">
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thinh%20(Tony)%20Nguyen&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Hackathon%20Builder&descAlignY=58&animation=fadeIn" width="100%"/>
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+UC+Irvine;Full-Stack+Builder+%7C+Hackathon+Competitor;Python+%7C+TypeScript+%7C+Go+%7C+C%2B%2B;Cloud+%7C+AI+%7C+Backend+Systems)](https://git.io/typing-svg)
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+</div>
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
-
-<!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
 
-# Thinh (Tony) Nguyen
+## About Me
 
-[![Hackathons](https://img.shields.io/badge/Hackathons-10%2B-brightgreen?style=flat-square)](#)
-[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
+Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves building clean, scalable systems and shipping fast under hackathon constraints.
 
-## About
-👋 Hey, I’m **Thinh (Tony) Nguyen** — a **Software Engineering student at UC Irvine**.
-I enjoy building **clean, scalable web systems**, experimenting with **AI-powered workflows**, and competing in **hackathons**.
-
-- 📍 Irvine, CA  
+- 📍 Irvine, CA
 - 🎓 B.S. Software Engineering @ UC Irvine
-- 🏆 Hackathon finalist & winner  
+- 💡 Interested in backend systems, AI tooling, and developer experience
 
-## Highlights
-- Built and shipped **multiple full-stack applications** under real-world and hackathon constraints  
-- Strong foundation in **data structures, algorithms, and system design**  
-- Experience with **cloud services (AWS, GCP)** and production deployments  
-- Comfortable moving from **idea → prototype → shipped product**
+---
 
-## Tech & Interests
-- 🧰 **Languages:** Python, JavaScript / TypeScript, Go, C++, Java  
-- 🛠️ **Frameworks:** React, Next.js, Node.js, LangChain  
-- ☁️ **Cloud & Databases:** AWS, PostgreSQL, DynamoDB, Supabase  
-- ❤️ **Interests:** Hackathons, backend systems, AI tooling, developer experience
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thinhtn3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhtn3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thinhtn3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+---
+
+## Hackathons
+
+<!-- DEVPOST:START -->
+_Run the workflow to populate hackathon data from Devpost._
+<!-- DEVPOST:END -->
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-thinhtn3-181717?style=for-the-badge&logo=github)](https://github.com/thinhtn3)
+[![Devpost](https://img.shields.io/badge/Devpost-thinhtn3-003E54?style=for-the-badge&logo=devpost)](https://devpost.com/thinhtn3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thinhttnguyen)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
