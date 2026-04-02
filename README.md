@@ -33,6 +33,12 @@ Hey, I'm **Tony** — a Software Engineering student at **UC Irvine** who loves 
 
 </div>
 
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thinhttnguyen?theme=dark&font=Fira%20Code&hide_border=true&ext=heatmap)](https://leetcode.com/u/thinhttnguyen/)
+
+</div>
+
 ---
 
 ## Tech Stack
